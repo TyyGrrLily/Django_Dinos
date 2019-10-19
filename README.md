@@ -1,2 +1,3 @@
 # Django_Dinos
-creating a website for a lovely dino database and more miscellaneous monsters
+Creating a website for a lovely dino database and more miscellaneous monsters.
+I am quite rusty with using Git so some tests and being done
